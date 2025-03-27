@@ -90,7 +90,7 @@ python main.py
     └── 3.7.1.min.js
 ```
 
-# 👨‍💻 开发## 指南
+## 👨‍💻 开发指南
 ### 添加新命令
 在 executor.py 中添加新的命令处理函数，并在 get_command_function 方法中注册该命令：
 ```python

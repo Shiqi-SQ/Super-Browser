@@ -21,7 +21,7 @@
 ## 🚀 快速开始
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/super-browser.git
+git clone https://github.com/Shiqi-SQ/super-browser.git
 cd super-browser
 ```
 
